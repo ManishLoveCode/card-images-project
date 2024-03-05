@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
-    <h1>Hello world</h1>
+    <div className='flex flex-wrap gap-1 mt-16'>
     <Card />
+    </div>
     </>
   )
 }
